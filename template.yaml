@@ -9,7 +9,7 @@ metadata:
     - techdocs
     - mkdocs
 spec:
-  owner: Ascentt-Business-Systems/techdocs-core
+  owner: group:default/ascentt_systems_inc
   type: documentation
 
   parameters:
